@@ -10,6 +10,15 @@ public class Teju {
 		phone.texting();
 		phone.Internet();
 		
+		Telephone phone2= new Telephone();
+		
+		phone2.Calling();
+		
+		Telephone phone3= new SmartPhone();
+		
+		phone3.Calling();
+		
+		
 	}
 
 }
