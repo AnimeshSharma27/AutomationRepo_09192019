@@ -1,10 +1,12 @@
 package exceptionalHandling;
 
 public class FinalKeyword {
-
+	
+	public final static int age=31;
+	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
+		//age=30;
 	}
 
 }
